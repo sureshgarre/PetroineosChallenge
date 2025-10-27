@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36221.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PowerPositionReportGenerator", "PowerPositionReportGenerator.csproj", "{1035FF2E-F6BD-4F4B-8480-37B85F21FD72}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PowerPositionReportService.Tests", "..\PowerPositionReportService.Tests\PowerPositionReportService.Tests.csproj", "{5ACEA5F6-8EC2-4363-B829-9DB4D3DF4924}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1035FF2E-F6BD-4F4B-8480-37B85F21FD72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1035FF2E-F6BD-4F4B-8480-37B85F21FD72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1035FF2E-F6BD-4F4B-8480-37B85F21FD72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1035FF2E-F6BD-4F4B-8480-37B85F21FD72}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5ACEA5F6-8EC2-4363-B829-9DB4D3DF4924}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5ACEA5F6-8EC2-4363-B829-9DB4D3DF4924}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5ACEA5F6-8EC2-4363-B829-9DB4D3DF4924}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5ACEA5F6-8EC2-4363-B829-9DB4D3DF4924}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {65153115-ED9D-46C7-9BEB-ED7B02F72212}
+	EndGlobalSection
+EndGlobal
